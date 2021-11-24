@@ -2,3 +2,7 @@
 
 
 cambio ultimo 
+tengo cambios sólo en main
+
+Holis soy un conflicto, debes resolverme :)
+
