@@ -1,3 +1,6 @@
 ## Hola soy el primer cambio en el README
 
-Cambio hecho por Thamara.
+tengo cambios sólo en main
+
+Holis soy un conflicto, debes resolverme :)
+
